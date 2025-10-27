@@ -1,6 +1,3 @@
-# Analytics Rules
-Microsoft Sentinel/Defender XDR Rules
-
 # 🧠 Detection-as-Code (KQL + YAML)
 
 A collection of **Threat Detection-as-Code rules** written in **KQL** and defined using **YAML metadata** for version control, automation, and collaboration.  
@@ -17,9 +14,5 @@ This project provides reusable detection content for:
 - **Security data lake or SIEM automation**
 
 Each detection is written in **KQL** and wrapped in a **YAML file** containing metadata, log sources, MITRE ATT&CK mappings, and query logic.
-
----
-
-## 🧩 Repository Structure
 
 
