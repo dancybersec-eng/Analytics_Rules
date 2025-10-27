@@ -1,4 +1,4 @@
-# 🧠 Detection-as-Code (KQL + YAML)
+# 🧠 Detection-as-Code
 
 A collection of **Threat Detection-as-Code rules** written in **KQL** and defined using **YAML metadata** for version control, automation, and collaboration.  
 This repository follows modern detection engineering principles — focusing on **repeatability, transparency, and scalability** for enterprise Threat Detection & Response.
